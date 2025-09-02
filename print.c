@@ -1,5 +1,5 @@
-#include<stdio.h>
-#include"print.h"
+#include <stdio.h>
+#include "print.h"
 
 void print(CALC_DATA *data)
 {

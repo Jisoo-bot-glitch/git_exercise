@@ -1,5 +1,5 @@
 #include "calc.h"
-#include"print.h"
+#include "print.h"
 
 int main()
 {
@@ -14,6 +14,10 @@ int main()
     data2.operand1 = 20;
     data2.operand2 = 15;
 
+
+    return 0; // 이부분을 추가합니다. 잘 될거야 모두들 화이팅 !! 
+
+    return 0;
 
     return 0;
 }

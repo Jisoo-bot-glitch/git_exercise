@@ -10,6 +10,7 @@ void ft_is_comb2(void)
        char x, y, z, t;
         x = (a/10) +'0';
         y = (a%10) +'0';
+        
         z = (b/10) +'0';
         t = (b%10) +'0';
         
